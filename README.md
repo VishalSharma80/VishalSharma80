@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VishalSharma80
+- 👋 Hi, I’m @VishalSharma
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html - css - js
 - 💞️ I’m looking to collaborate on project in java - html - css - js
